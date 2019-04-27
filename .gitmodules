@@ -1,0 +1,3 @@
+[submodule "book-manager"]
+	path = book-manager
+	url = zwh@45.32.92.249:~/git/book-manager.git
