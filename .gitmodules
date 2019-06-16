@@ -1,3 +1,6 @@
 [submodule "book-manager"]
 	path = book-manager
-	url = zwh@45.32.92.249:~/git/book-manager.git
+	url = https://github.com/shenmishajing/book-manager.git
+[submodule "minisql"]
+	path = minisql
+	url = https://github.com/shenmishajing/minisql.git
